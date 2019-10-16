@@ -1,4 +1,4 @@
-module Operator where
+module Operators where
 
 import Control.Monad
 import Control.Applicative
